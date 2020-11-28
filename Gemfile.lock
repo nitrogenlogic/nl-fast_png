@@ -1,0 +1,28 @@
+PATH
+  remote: .
+  specs:
+    nl-fast_png (0.0.0.pre.usegit)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.1.3)
+    method_source (1.0.0)
+    pry (0.13.1)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
+    rake (12.3.3)
+    rake-compiler (1.1.1)
+      rake
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  nl-fast_png!
+  pry
+  rake (~> 12.0)
+  rake-compiler
+
+BUNDLED WITH
+   2.1.4

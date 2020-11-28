@@ -1,0 +1,17 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+/ext/nl-fast_png/Makefile
+/ext/**/*.o
+/ext/**/*.so
+/ext/**/mkmf.log
+/lib/**/*.so
+
+/.ruby-version
+/.ruby-gemset
