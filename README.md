@@ -22,11 +22,9 @@ gem 'nl-fast_png', git: 'git@github.com:nitrogenlogic/nl-fast_png.git'
 
 And then execute:
 
-    $ bundle install
-
-Or install it yourself as:
-
-    $ gem install nl-fast_png
+```bash
+$ bundle install
+```
 
 ## Usage
 
