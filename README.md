@@ -1,7 +1,7 @@
-# NL::FastPNG
+# NL::FastPng
 
 NL::FastPng is a C-based extension that uses libpng in a simplified
-configuration for faster performance on black and white images, at the expense
+configuration for faster performance on grayscale images, at the expense
 of slightly larger file sizes.
 
 This code was used by the Nitrogen Logic Depth Camera Controller to generate
@@ -17,7 +17,7 @@ details.  NL::FastPng is &copy; 2011-2020, Mike Bourgeous.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'nl-fast_png'
+gem 'nl-fast_png', git: 'git@github.com:nitrogenlogic/nl-fast_png.git'
 ```
 
 And then execute:
